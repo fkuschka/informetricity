@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# 2015-07-06 20:00
+# wird in den cache geladen
+/favicon.ico
+/css/style.css
+
+NETWORK
+#wird nie in den cache geladen. alles andere.
+*
+
+FALLBACK
+#rueckfall seite falls offline
+/ /offline.html

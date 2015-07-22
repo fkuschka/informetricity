@@ -1,0 +1,49 @@
+html {
+	position: relative;
+	min-height: 100%
+}
+
+.content {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ nav div, footer div {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	width: 100%;
+	background-color: #f5f5f5;
+	bottom: 0;
+	position: absolute;
+
+}
+
+.container .text-muted {
+  margin: 10px 0;
+}
+
+.row {
+	position: relative;
+	min-height: 1px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.row div {
+	padding-bottom: 10px;
+}
+
+.row h3 {
+	padding-bottom: 17px;
+}
+
+hr {
+	border-color: #000000;
+}
